@@ -37,16 +37,3 @@ Se você é um desenvolvedor e quer dar uma força nesse projeto, fique à vonta
 **Divirta-se explorando o mundo dos esportes brasileiros!** 
 
 **#Olimpíadas #AtletasBrasileiros #DesenvolvimentoWeb #JavaScript**
-
-**[Seu nome ou nome do seu time]**
-
-**[Link para o seu perfil no GitHub]**
-
-**[Link para o repositório do projeto]**
-
-**Lembre-se de adaptar este README com mais detalhes sobre o seu projeto, como:**
-* **O que torna a aplicação única?**
-* **Quais são os próximos passos para o desenvolvimento?**
-* **Como os usuários podem fornecer feedback?**
-
-**Com um README bem escrito, você atrairá mais pessoas para o seu projeto e facilitará a colaboração.**
